@@ -1,0 +1,221 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{12}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Chen et~al\mbox{.}(2024)]%
+        {chen2024panda70m}
+\bibfield{author}{\bibinfo{person}{Tsai-Shien Chen},
+  \bibinfo{person}{Aliaksandr Siarohin}, \bibinfo{person}{Willi Menapace},
+  \bibinfo{person}{Ekaterina Deyneka}, \bibinfo{person}{Hsiang-wei Chao},
+  \bibinfo{person}{Byung~Eun Jeon}, \bibinfo{person}{Yuwei Fang},
+  \bibinfo{person}{Hsin-Ying Lee}, \bibinfo{person}{Jian Ren},
+  \bibinfo{person}{Ming-Hsuan Yang}, {and} \bibinfo{person}{Sergey Tulyakov}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Panda-70M: Captioning 70M Videos with Multiple
+  Cross-Modality Teachers}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2402.19479}}
+  (\bibinfo{year}{2024}).
+\newblock
+
+
+\bibitem[Lewis et~al\mbox{.}(2020)]%
+        {Lewis2020RetrievalAugmentedGF}
+\bibfield{author}{\bibinfo{person}{Patrick Lewis}, \bibinfo{person}{Ethan
+  Perez}, \bibinfo{person}{Aleksandara Piktus}, \bibinfo{person}{Fabio
+  Petroni}, \bibinfo{person}{Vladimir Karpukhin}, \bibinfo{person}{Naman
+  Goyal}, \bibinfo{person}{Heinrich Kuttler}, \bibinfo{person}{Mike Lewis},
+  \bibinfo{person}{Wen tau Yih}, \bibinfo{person}{Tim Rockt{\"a}schel},
+  \bibinfo{person}{Sebastian Riedel}, {and} \bibinfo{person}{Douwe Kiela}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Retrieval-Augmented Generation for
+  Knowledge-Intensive NLP Tasks}.
+\newblock \bibinfo{journal}{\emph{ArXiv}}  \bibinfo{volume}{abs/2005.11401}
+  (\bibinfo{year}{2020}).
+\newblock
+\urldef\tempurl%
+\url{https://api.semanticscholar.org/CorpusID:218869575}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Li et~al\mbox{.}(2023b)]%
+        {li2023blip2}
+\bibfield{author}{\bibinfo{person}{Junnan Li}, \bibinfo{person}{Dongxu Li},
+  \bibinfo{person}{Silvio Savarese}, {and} \bibinfo{person}{Steven Hoi}.}
+  \bibinfo{year}{2023}\natexlab{b}.
+\newblock \showarticletitle{{BLIP-2:} Bootstrapping Language-Image Pre-training
+  with Frozen Image Encoders and Large Language Models}. In
+  \bibinfo{booktitle}{\emph{ICML}}.
+\newblock
+
+
+\bibitem[Li et~al\mbox{.}(2023a)]%
+        {2023videochat}
+\bibfield{author}{\bibinfo{person}{Kunchang Li}, \bibinfo{person}{Yinan He},
+  \bibinfo{person}{Yi Wang}, \bibinfo{person}{Yizhuo Li},
+  \bibinfo{person}{Wenhai Wang}, \bibinfo{person}{Ping Luo},
+  \bibinfo{person}{Yali Wang}, \bibinfo{person}{Limin Wang}, {and}
+  \bibinfo{person}{Yu Qiao}.} \bibinfo{year}{2023}\natexlab{a}.
+\newblock \showarticletitle{VideoChat: Chat-Centric Video Understanding}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2305.06355}}
+  (\bibinfo{year}{2023}).
+\newblock
+
+
+\bibitem[Lin et~al\mbox{.}(2023)]%
+        {lin2023video}
+\bibfield{author}{\bibinfo{person}{Bin Lin}, \bibinfo{person}{Bin Zhu},
+  \bibinfo{person}{Yang Ye}, \bibinfo{person}{Munan Ning},
+  \bibinfo{person}{Peng Jin}, {and} \bibinfo{person}{Li Yuan}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Video-LLaVA: Learning United Visual Representation
+  by Alignment Before Projection}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2311.10122}}
+  (\bibinfo{year}{2023}).
+\newblock
+
+
+\bibitem[Maaz et~al\mbox{.}(2023)]%
+        {Maaz2023VideoChatGPT}
+\bibfield{author}{\bibinfo{person}{Muhammad Maaz}, \bibinfo{person}{Hanoona
+  Rasheed}, \bibinfo{person}{Salman Khan}, {and} \bibinfo{person}{Fahad~Shahbaz
+  Khan}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Video-ChatGPT: Towards Detailed Video Understanding
+  via Large Vision and Language Models}.
+\newblock \bibinfo{journal}{\emph{arXiv:2306.05424}} (\bibinfo{year}{2023}).
+\newblock
+
+
+\bibitem[Pan et~al\mbox{.}(2023)]%
+        {10350438}
+\bibfield{author}{\bibinfo{person}{J. Pan}, \bibinfo{person}{Z. Lin},
+  \bibinfo{person}{Y. Ge}, \bibinfo{person}{X. Zhu}, \bibinfo{person}{R.
+  Zhang}, \bibinfo{person}{Y. Wang}, \bibinfo{person}{Y. Qiao}, {and}
+  \bibinfo{person}{H. Li}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Retrieving-to-Answer: Zero-Shot Video Question
+  Answering with Frozen Large Language Models}. In
+  \bibinfo{booktitle}{\emph{2023 IEEE/CVF International Conference on Computer
+  Vision Workshops (ICCVW)}}. \bibinfo{publisher}{IEEE Computer Society},
+  \bibinfo{address}{Los Alamitos, CA, USA}, \bibinfo{pages}{272--283}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ICCVW60793.2023.00035}
+\showDOI{\tempurl}
+
+
+\bibitem[Radford et~al\mbox{.}(2021)]%
+        {Radford2021LearningTV}
+\bibfield{author}{\bibinfo{person}{Alec Radford}, \bibinfo{person}{Jong~Wook
+  Kim}, \bibinfo{person}{Chris Hallacy}, \bibinfo{person}{Aditya Ramesh},
+  \bibinfo{person}{Gabriel Goh}, \bibinfo{person}{Sandhini Agarwal},
+  \bibinfo{person}{Girish Sastry}, \bibinfo{person}{Amanda Askell},
+  \bibinfo{person}{Pamela Mishkin}, \bibinfo{person}{Jack Clark},
+  \bibinfo{person}{Gretchen Krueger}, {and} \bibinfo{person}{Ilya Sutskever}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Learning Transferable Visual Models From Natural
+  Language Supervision}. In \bibinfo{booktitle}{\emph{International Conference
+  on Machine Learning}}.
+\newblock
+\urldef\tempurl%
+\url{https://api.semanticscholar.org/CorpusID:231591445}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Xu et~al\mbox{.}(2024)]%
+        {Xu2024RetrievalAugmentedEV}
+\bibfield{author}{\bibinfo{person}{Jilan Xu}, \bibinfo{person}{Yifei Huang},
+  \bibinfo{person}{Junlin Hou}, \bibinfo{person}{Guo Chen},
+  \bibinfo{person}{Yue Zhang}, \bibinfo{person}{Rui Feng}, {and}
+  \bibinfo{person}{Weidi Xie}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Retrieval-Augmented Egocentric Video Captioning}.
+\newblock \bibinfo{journal}{\emph{ArXiv}}  \bibinfo{volume}{abs/2401.00789}
+  (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://api.semanticscholar.org/CorpusID:266693245}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Zhang et~al\mbox{.}(2023)]%
+        {damonlpsg2023videollama}
+\bibfield{author}{\bibinfo{person}{Hang Zhang}, \bibinfo{person}{Xin Li}, {and}
+  \bibinfo{person}{Lidong Bing}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Video-LLaMA: An Instruction-tuned Audio-Visual
+  Language Model for Video Understanding}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2306.02858}}
+  (\bibinfo{year}{2023}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2306.02858}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Zhang et~al\mbox{.}(2024)]%
+        {Zhang2024MagicLens}
+\bibfield{author}{\bibinfo{person}{Kai Zhang}, \bibinfo{person}{Yi Luan},
+  \bibinfo{person}{Hexiang Hu}, \bibinfo{person}{Kenton Lee},
+  \bibinfo{person}{Siyuan Qiao}, \bibinfo{person}{Wenhu Chen},
+  \bibinfo{person}{Yu Su}, {and} \bibinfo{person}{Ming-Wei Chang}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{MagicLens: Self-Supervised Image Retrieval with
+  Open-Ended Instructions}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2403.19651}}
+  (\bibinfo{year}{2024}).
+\newblock
+
+
+\bibitem[Zhang* et~al\mbox{.}(2020)]%
+        {bert-score}
+\bibfield{author}{\bibinfo{person}{Tianyi Zhang*}, \bibinfo{person}{Varsha
+  Kishore*}, \bibinfo{person}{Felix Wu*}, \bibinfo{person}{Kilian~Q.
+  Weinberger}, {and} \bibinfo{person}{Yoav Artzi}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{BERTScore: Evaluating Text Generation with BERT}.
+  In \bibinfo{booktitle}{\emph{International Conference on Learning
+  Representations}}.
+\newblock
+\urldef\tempurl%
+\url{https://openreview.net/forum?id=SkeHuCVFDr}
+\showURL{%
+\tempurl}
+
+
+\end{thebibliography}
