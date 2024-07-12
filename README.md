@@ -6,6 +6,8 @@ In this work, we propose the use of ”aligned visual captions” as a mechanism
 
 Presented at the 1st Workshop on Multimodal Representation and Retrieval ([MRR 2024](https://mrr-workshop.github.io/)) @ [SIGIR 2024](https://sigir-2024.github.io/)
 
+[Presentation Slides](https://docs.google.com/presentation/d/105fSXZY7yPy7c8Iyc-LYOnGAs2pOKdAUptzHSqj2s5g/edit#slide=id.p)
+
 [![arXiv](https://img.shields.io/badge/arXiv-2402.17706-2405.svg)](https://arxiv.org/abs/2405.17706)
 
 ## Highlights
