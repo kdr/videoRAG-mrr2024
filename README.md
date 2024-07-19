@@ -113,11 +113,13 @@ In order to demonstrate the integration of aligned video captions with a Video E
 ## Citation
 
 ```BibTeX
-@inproceedings{kdr2024videoenrichedretrievalaugmented,
+@article{rosa2024videoenrichedretrievalaugmented,
       title={Video Enriched Retrieval Augmented Generation Using Aligned Video Captions}, 
       author={Kevin Dela Rosa},
       year={2024},
-      maintitle = {The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-      booktitle = {The 1st Workshop on Multimodal Representation and Retrieval (MRR 2024)},
+      eprint={2405.17706},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2405.17706}, 
 }
 ```
